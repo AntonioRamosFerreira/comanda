@@ -30,5 +30,20 @@
             "imagePath": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXNUCF7/200/200/original?country=br",
             "preco": 27.90
         }
+    ],
+
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "Antonio Ferreira",
+            "email": "antonio@fiap.com.br",
+            "senha": "1234"
+        },
+        {
+            "id": "2",
+            "nome": "Fernanda Mello",
+            "email": "fernanda@fiap.com.br",
+            "senha": "5678"
+        }
     ]
 }

@@ -122,6 +122,9 @@ export const styles = StyleSheet.create({
     },
     scroll: {
         width: '100%',
+    },
+    erro: {
+        color: 'red'
     }
 
 });
